@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/FelipeRocha - FullStack/Curso-JavaScript/06 - Programacao Orientada a Objetos.md",
+                "file": "JavaScript/FelipeRocha - FullStack/Curso-JavaScript/07 - Selecionando Elementos do DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 - Programacao Orientada a Objetos"
+              "title": "07 - Selecionando Elementos do DOM"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "e5ae401b90edbda0",
   "lastOpenFiles": [
-    "JavaScript/FelipeRocha - FullStack/Curso-JavaScript/05 - Json.md",
     "JavaScript/FelipeRocha - FullStack/Curso-JavaScript/06 - Programacao Orientada a Objetos.md",
+    "JavaScript/FelipeRocha - FullStack/Curso-JavaScript/07 - Selecionando Elementos do DOM.md",
+    "JavaScript/FelipeRocha - FullStack/Curso-JavaScript/05 - Json.md",
     "JavaScript/FelipeRocha - FullStack/Curso-JavaScript/04 - Objetos.md",
     "Sem título.md",
     "JavaScript/FelipeRocha - FullStack/Curso-JavaScript/03 -  Map, Filter & Reduce.md",
